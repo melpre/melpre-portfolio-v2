@@ -3,8 +3,8 @@ title: Prototype Online Course Directory
 stack: React, Node.js & Express
 slug: course-directory
 date: 2023-08-03
-thumb: ../images/thumbs/course_directory.png
-featuredImage: ../images/featured/course_directory_banner.png
+thumb: ../images/thumbs/courses-directory-thumb.png
+featuredImage: ../images/featured/courses-directory-banner.png
 
 ---
 
