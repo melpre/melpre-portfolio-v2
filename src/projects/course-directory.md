@@ -4,7 +4,7 @@ stack: React, Node.js & Express
 slug: course-directory
 date: 2023-08-03
 thumb: ../images/thumbs/courses-directory-thumb.png
-featuredImage: ../images/featured/courses-directory-banner.png
+featuredImage: ../images/featured/courses-directory-banner.jpg
 
 ---
 

@@ -4,7 +4,7 @@ stack: Bootstrap & React
 slug: packit-app
 date: 2023-07-26
 thumb: ../images/thumbs/pack-it-app-thumb.png
-featuredImage: ../images/featured/pack-it-app-banner.jpeg
+featuredImage: ../images/featured/pack-it-app-banner.jpg
 ---
 
 ## A Prototype Travel Checklist App
