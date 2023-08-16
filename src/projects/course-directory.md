@@ -22,6 +22,7 @@ It is a web application that mimics a school's online course directory to demons
 - Registration form for new users and immediate sign-in when created
 
 **Where can I see this project?**
-- Github: visit https://github.com/melpre/Techdegree-Project-10
+- Github: visit https://github.com/melpre/client-fullstackapp
+                https://github.com/melpre/server-fullstackapp
 
 
