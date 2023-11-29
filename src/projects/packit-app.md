@@ -19,6 +19,7 @@ It is a responsive web application that dynamically creates a travel checklist f
 - Dynamic rendering of a checklist with customizable options
 
 **Where can I see this project?**
-- Github: visit https://github.com/melpre/pack-it-app-v1
+- Github: visit https://github.com/melpre/pack-it-app-v2
+- Live Demo: visit https://pack-it-app.netlify.app/
 
 
